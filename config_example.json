@@ -1,0 +1,15 @@
+{
+    "Influx":{
+        "org": "<org>",
+        "bucket": "<bucket>",
+        "token": "<token>",
+        "url":  "<url>"
+    },
+    "Healthchecks": {
+        "url": "<healthchecks url>"
+    }, 
+    "Honeywell": {
+        "authorization": "<authorization token>",
+        "apikey": "<apikey>"
+    }
+}

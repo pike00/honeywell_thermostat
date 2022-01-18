@@ -1,0 +1,10 @@
+__pycache__
+
+.vscode/
+
+venv/
+
+honeywell.log
+
+token.json
+config.json
